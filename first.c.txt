@@ -3,5 +3,6 @@
 void main()
 {
 clrscr();
+printf("enter number");
 getch();
 }
